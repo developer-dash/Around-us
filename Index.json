@@ -397,4 +397,12 @@
         "meltingPoint_inDegreeCelsius": "-85.05 °C",
         "bolingPoint_inDegreeCelsius": "-85.05 °C"
 }
+{
+        "id":46,
+        "name": "Calcium hypoclorite",
+        "molecular formula": "CaOcl2",
+        "colour": "white",
+        "meltingPoint_inDegreeCelsius": "100°C"
+        "bolingPoint_inDegreeCelsius": "175°C"
+}
 ]
