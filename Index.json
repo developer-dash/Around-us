@@ -397,4 +397,11 @@
         "meltingPoint_inDegreeCelsius": "-85.05 °C",
         "bolingPoint_inDegreeCelsius": "-85.05 °C"
 }
+{       "id":46,
+        "name": "Dinitrogen Oxide",
+        "molecular formula": "N20",
+        "colour": "Colorless",
+        "meltingPoint_inDegreeCelsius": " -90.86°C",
+        "bolingPoint_inDegreeCelsius": "21°C"
+}}
 ]
