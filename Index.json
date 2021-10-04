@@ -444,4 +444,12 @@
         "meltingPoint_inDegreeCelsius": "16.75°C",
         "bolingPoint_inDegreeCelsius": "118 C"
 }
+{        
+      "id":46,
+        "name": "SUCROSE",
+        "molecular formula": "C12H22O11",
+        "colour": "white solid",
+        "meltingPoint_inDegreeCelsius": "186 °C (367 °F) ",
+        "bolingPoint_inDegreeCelsius": "697.1±55.0 °C"
+}
 ]
