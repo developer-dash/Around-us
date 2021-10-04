@@ -443,5 +443,13 @@
         "colour": "red",
         "meltingPoint_inDegreeCelsius": "16.75°C",
         "bolingPoint_inDegreeCelsius": "118 C"
-}
+},
+    {
+        "id": 50,
+        "name": "Chloroform ",
+        "molecular formula": "CHCl3",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "-63.5",
+        "bolingPoint_inDegreeCelsius": "61.1"
+    },
 ]
