@@ -420,4 +420,12 @@
         "meltingPoint_inDegreeCelsius": "100°C"
         "bolingPoint_inDegreeCelsius": "175°C"
 }
+{        
+      "id":45,
+        "name": "Lead monoxide",
+        "molecular formula": "PbO",
+        "colour": "Yellow or Red powder",
+        "meltingPoint_inDegreeCelsius": "888°C",
+        "bolingPoint_inDegreeCelsius": "1477°C"
+}
 ]
