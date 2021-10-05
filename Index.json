@@ -444,4 +444,12 @@
         "meltingPoint_inDegreeCelsius": "16.75°C",
         "bolingPoint_inDegreeCelsius": "118 C"
 }
+{        
+        "id":47,
+        "name": "beta-mercaptoethanol",
+        "molecular formula": "HSCH2CH2OH",
+        "colour": "colorless",
+        "meltingPoint_inDegreeCelsius": " -100 °C",
+        "bolingPoint_inDegreeCelsius": "157 C"
+}
 ]
