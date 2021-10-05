@@ -444,4 +444,12 @@
         "meltingPoint_inDegreeCelsius": "16.75°C",
         "bolingPoint_inDegreeCelsius": "118 C"
 }
+{        
+      "id":47,
+        "name": "hydroxychloroquine sulphate",
+        "molecular formula": "C18H26CIN30",
+        "colour": "white",
+        "meltingPoint_inDegreeCelsius": "251°C",
+        "bolingPoint_inDegreeCelsius": "87 C"
+}
 ]
