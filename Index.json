@@ -444,4 +444,12 @@
         "meltingPoint_inDegreeCelsius": "16.75°C",
         "bolingPoint_inDegreeCelsius": "118 C"
 }
+{        
+      "id":47,
+        "name": "Barium Phosphate ",
+        "molecular formula": "Ba3(PO4)2",
+        "colour": "White powder",
+        "meltingPoint_inDegreeCelsius": ">300 °",
+        "bolingPoint_inDegreeCelsius": "N/A"
+}
 ]
