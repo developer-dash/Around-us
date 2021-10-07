@@ -315,7 +315,7 @@
         "meltingPoint_inDegreeCelsius": "825 ",
         "bolingPoint_inDegreeCelsius": "825 "
     },
-{
+    {
         "id":36,
         "name": "Lactose",
         "molecular formula": "C12H22O11",
@@ -324,124 +324,125 @@
         "bolingPoint_inDegreeCelsius": "668.9"
     },
 
- {
-    "id": 37,
-    "name": "Nitrous Oxide",
-    "molecular formula": "N2O",
-    "colour": "colourless",
-    "meltingPoint_inDegreeCelsius": "-90.86",
-    "bolingPoint_inDegreeCelsius": "-88.48"
- },
-{
-    "id": 38,
-    "name": "Octane",
-    "molecular formula": "C8H18",
-    "colour": "colourless",
-    "meltingPoint_inDegreeCelsius": "-57",
-    "bolingPoint_inDegreeCelsius": "1255.55"
- },
+    {
+        "id": 37,
+        "name": "Nitrous Oxide",
+        "molecular formula": "N2O",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "-90.86",
+        "bolingPoint_inDegreeCelsius": "-88.48"
+    },
+    {
+        "id": 38,
+        "name": "Octane",
+        "molecular formula": "C8H18",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "-57",
+        "bolingPoint_inDegreeCelsius": "1255.55"
+    },
 
-{
-     "id":39,
+    {
+        "id":39,
         "name": "Methane",
         "molecular formula": "CH4",
         "colour": "colourless",
         "meltingPoint_inDegreeCelsius": "182 °C",
         "bolingPoint_inDegreeCelsius": "161.6 °C"
-},
-{
-     "id":40,
+    },
+    {
+        "id":40,
         "name": "Methyl orange",
         "molecular formula": "C14H14N3NaO3S",
         "colour": "Yellow",
         "meltingPoint_inDegreeCelsius": "300 °C",
         "bolingPoint_inDegreeCelsius": "100°C"
-},
-{
-     "id":41,
+    },
+    {
+        "id":41,
         "name": "Nitric acid",
         "molecular formula": "HNO3",
         "colour": "Yellow",
         "meltingPoint_inDegreeCelsius": "-42°C",
         "bolingPoint_inDegreeCelsius": "83°C"
-},
-{
-     "id":42,
+    },
+    {
+        "id":42,
         "name": "Glucose",
         "molecular formula": "C₆H₁₂O₆",
         "colour": "colorless",
         "meltingPoint_inDegreeCelsius": "146°C",
         "bolingPoint_inDegreeCelsius": "100.51°C"
-},
-{
-     "id":43,
+    },
+    {
+        "id":43,
         "name": "Methanol",
         "molecular formula": "CH3OH",
         "colour": "colourless",
         "meltingPoint_inDegreeCelsius": "−97.6 °C",
         "bolingPoint_inDegreeCelsius": "64.7 °C"
-},
-{        
-      "id":44,
+    },
+    {        
+        "id":44,
         "name": "Aspirin",
         "molecular formula": "C9H8O4",
         "colour": "Colorless to white",
         "meltingPoint_inDegreeCelsius": "135 °C",
         "bolingPoint_inDegreeCelsius": "140°C"
-}
-{        
-      "id":45,
+    }
+    {        
+         "id":45,
         "name": "Hydrochloric acid",
         "molecular formula": "HCl",
         "colour": "colorless",
         "meltingPoint_inDegreeCelsius": "-85.05 °C",
         "bolingPoint_inDegreeCelsius": "-85.05 °C"
-},
-{       "id":46,
+    },
+    {       
+        "id":46,
         "name": "Dinitrogen Oxide",
         "molecular formula": "N20",
         "colour": "Colorless",
         "meltingPoint_inDegreeCelsius": " -90.86°C",
         "bolingPoint_inDegreeCelsius": "21°C"
-},
-{        
-      "id": 47,
+    },
+    {        
+        "id": 47,
         "name": "Ammonium cyanide",
         "molecular formula": "CH4N2",
         "colour": "colorless",
         "meltingPoint_inDegreeCelsius": "36 °C",
         "bolingPoint_inDegreeCelsius": "31.7 °C"
-}
-{
+    }
+    {
         "id":46,
         "name": "Calcium hypoclorite",
         "molecular formula": "CaOcl2",
         "colour": "white",
-        "meltingPoint_inDegreeCelsius": "100°C"
+        "meltingPoint_inDegreeCelsius": "100°C",
         "bolingPoint_inDegreeCelsius": "175°C"
-}
-{        
-      "id":45,
+    }
+    {        
+        "id":45,
         "name": "Lead monoxide",
         "molecular formula": "PbO",
         "colour": "Yellow or Red powder",
         "meltingPoint_inDegreeCelsius": "888°C",
         "bolingPoint_inDegreeCelsius": "1477°C"
-}
-{        
-      "id":46,
+    }
+    {        
+        "id":46,
         "name": " Dinitrogen Oxide",
         "molecular formula": "N2O",
         "colour": "colorless",
         "meltingPoint_inDegreeCelsius": "-90.86°C",
         "bolingPoint_inDegreeCelsius": "175 °C"
-}
-{        
-      "id":46,
+    }
+    {        
+        "id":46,
         "name": "Acetic acid",
         "molecular formula": "CH3COOH",
         "colour": "red",
         "meltingPoint_inDegreeCelsius": "16.75°C",
         "bolingPoint_inDegreeCelsius": "118 C"
-}
+    }
 ]
