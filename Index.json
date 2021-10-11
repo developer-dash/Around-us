@@ -446,7 +446,18 @@
 
 },
 {        
-      "id":52,
+        "id":52,
+        "name": "beta-mercaptoethanol",
+        "molecular formula": "HSCH2CH2OH",
+        "colour": "colorless",
+        "meltingPoint_inDegreeCelsius": " -100 °C",
+        "bolingPoint_inDegreeCelsius": "157 C"
+}
+
+
+},
+{        
+      "id":53,
         "name": "SUCROSE",
         "molecular formula": "C12H22O11",
         "colour": "white solid",
@@ -454,7 +465,7 @@
         "bolingPoint_inDegreeCelsius": "697.1±55.0 °C"
 },
     {
-        "id": 53,
+        "id": 54,
         "name": "Chloroform ",
         "molecular formula": "CHCl3",
         "colour": "colourless",
