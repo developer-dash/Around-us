@@ -452,12 +452,17 @@
         "colour": "colorless",
         "meltingPoint_inDegreeCelsius": " -100 °C",
         "bolingPoint_inDegreeCelsius": "157 C"
-}
-
-
 },
 {        
       "id":53,
+        "name": "hydroxychloroquine sulphate",
+        "molecular formula": "C18H26CIN30",
+        "colour": "white",
+        "meltingPoint_inDegreeCelsius": "251°C",
+        "bolingPoint_inDegreeCelsius": "87 C"
+},
+{        
+      "id":54,
         "name": "SUCROSE",
         "molecular formula": "C12H22O11",
         "colour": "white solid",
@@ -465,7 +470,7 @@
         "bolingPoint_inDegreeCelsius": "697.1±55.0 °C"
 },
     {
-        "id": 54,
+        "id": 55,
         "name": "Chloroform ",
         "molecular formula": "CHCl3",
         "colour": "colourless",
