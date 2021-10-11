@@ -411,45 +411,77 @@
         "colour": "colorless",
         "meltingPoint_inDegreeCelsius": "36 °C",
         "bolingPoint_inDegreeCelsius": "31.7 °C"
-}
+},
 {
-        "id":46,
+        "id":48,
         "name": "Calcium hypoclorite",
         "molecular formula": "CaOcl2",
         "colour": "white",
         "meltingPoint_inDegreeCelsius": "100°C"
         "bolingPoint_inDegreeCelsius": "175°C"
-}
+},
 {        
-      "id":45,
+      "id":49,
         "name": "Lead monoxide",
         "molecular formula": "PbO",
         "colour": "Yellow or Red powder",
         "meltingPoint_inDegreeCelsius": "888°C",
         "bolingPoint_inDegreeCelsius": "1477°C"
-}
+},
 {        
-      "id":46,
+      "id":50,
         "name": " Dinitrogen Oxide",
         "molecular formula": "N2O",
         "colour": "colorless",
         "meltingPoint_inDegreeCelsius": "-90.86°C",
         "bolingPoint_inDegreeCelsius": "175 °C"
-}
+},
 {        
-      "id":46,
+      "id":51,
         "name": "Acetic acid",
         "molecular formula": "CH3COOH",
         "colour": "red",
         "meltingPoint_inDegreeCelsius": "16.75°C",
         "bolingPoint_inDegreeCelsius": "118 C"
-}
+},
 {        
-      "id":47,
+        "id":52,
+        "name": "beta-mercaptoethanol",
+        "molecular formula": "HSCH2CH2OH",
+        "colour": "colorless",
+        "meltingPoint_inDegreeCelsius": " -100 °C",
+        "bolingPoint_inDegreeCelsius": "157 C"
+},
+{        
+      "id":53,
+        "name": "hydroxychloroquine sulphate",
+        "molecular formula": "C18H26CIN30",
+        "colour": "white",
+        "meltingPoint_inDegreeCelsius": "251°C",
+        "bolingPoint_inDegreeCelsius": "87 C"
+},
+{        
+      "id":54,
+        "name": "SUCROSE",
+        "molecular formula": "C12H22O11",
+        "colour": "white solid",
+        "meltingPoint_inDegreeCelsius": "186 °C (367 °F) ",
+        "bolingPoint_inDegreeCelsius": "697.1±55.0 °C"
+},
+    {
+        "id": 55,
+        "name": "Chloroform ",
+        "molecular formula": "CHCl3",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "-63.5",
+        "bolingPoint_inDegreeCelsius": "61.1"
+    },
+    {        
+      "id":56,
         "name": "Barium Phosphate ",
         "molecular formula": "Ba3(PO4)2",
         "colour": "White powder",
         "meltingPoint_inDegreeCelsius": ">300 °",
         "bolingPoint_inDegreeCelsius": "N/A"
-}
+     }
 ]
