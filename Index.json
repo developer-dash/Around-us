@@ -411,45 +411,54 @@
         "colour": "colorless",
         "meltingPoint_inDegreeCelsius": "36 °C",
         "bolingPoint_inDegreeCelsius": "31.7 °C"
-}
+},
 {
-        "id":46,
+        "id":48,
         "name": "Calcium hypoclorite",
         "molecular formula": "CaOcl2",
         "colour": "white",
         "meltingPoint_inDegreeCelsius": "100°C"
         "bolingPoint_inDegreeCelsius": "175°C"
-}
+},
 {        
-      "id":45,
+      "id":49,
         "name": "Lead monoxide",
         "molecular formula": "PbO",
         "colour": "Yellow or Red powder",
         "meltingPoint_inDegreeCelsius": "888°C",
         "bolingPoint_inDegreeCelsius": "1477°C"
-}
+},
 {        
-      "id":46,
+      "id":50,
         "name": " Dinitrogen Oxide",
         "molecular formula": "N2O",
         "colour": "colorless",
         "meltingPoint_inDegreeCelsius": "-90.86°C",
         "bolingPoint_inDegreeCelsius": "175 °C"
-}
+},
 {        
-      "id":46,
+      "id":51,
         "name": "Acetic acid",
         "molecular formula": "CH3COOH",
         "colour": "red",
         "meltingPoint_inDegreeCelsius": "16.75°C",
         "bolingPoint_inDegreeCelsius": "118 C"
-}
+
+},
 {        
-      "id":46,
+      "id":52,
         "name": "SUCROSE",
         "molecular formula": "C12H22O11",
         "colour": "white solid",
         "meltingPoint_inDegreeCelsius": "186 °C (367 °F) ",
         "bolingPoint_inDegreeCelsius": "697.1±55.0 °C"
-}
+},
+    {
+        "id": 53,
+        "name": "Chloroform ",
+        "molecular formula": "CHCl3",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "-63.5",
+        "bolingPoint_inDegreeCelsius": "61.1"
+    }
 ]
