@@ -483,5 +483,13 @@
         "colour": "White powder",
         "meltingPoint_inDegreeCelsius": ">300 °",
         "bolingPoint_inDegreeCelsius": "N/A"
+     },
+     {        
+      "id":57,
+        "name": "Sodium acetate",
+        "molecular formula": "CH 3 COONa",
+        "colour": "White",
+        "meltingPoint_inDegreeCelsius": "324°C (615.20°F)",
+        "bolingPoint_inDegreeCelsius": "881.40°C (1,619°F)"
      }
 ]
